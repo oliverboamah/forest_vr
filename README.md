@@ -4,7 +4,7 @@ A Forest Virtual Reality app with 3D components of the forest such as tigers, el
 Built with Unity, C# and the Google VR SDK. It uses the phone's accelerometer as an input modality for movements in the forest. 
 
 # Video Demo
-* Demo link 1: https://drive.google.com/file/d/1kOR6eALvzv-tClYyLMML-uK-H5n96559/view?usp=sharing
+* Demo link: https://drive.google.com/file/d/1kOR6eALvzv-tClYyLMML-uK-H5n96559/view?usp=sharing
 
  
 ## Screenshots
