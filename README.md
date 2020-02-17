@@ -1,4 +1,4 @@
-# SmartKids
+# FOREST VR
 A Forest Virtual Reality app with 3D components of the forest such as tigers, elephants, rocks and hills that depicts a virtual experience in the forest. 
 
 Built with Unity, C# and the Google VR SDK. It uses the phone's accelerometer as an input modality for movements in the forest. 
